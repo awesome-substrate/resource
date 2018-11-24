@@ -1,5 +1,8 @@
 # resource list
 
+## howto
+ * [how to run a polkadot node](https://medium.com/@talfco/polkadot-hello-world-article-series-82aca03939e)
+
 ## wiki
   * [substrate official wiki](https://wiki.parity.io/decl_storage)
 
