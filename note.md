@@ -15,3 +15,7 @@
 ## repository
 
   * [serge pepyakin demo wasm smartcontract](https://github.com/pepyakin/substrate-contracts-adder)
+  
+## consensus
+
+ * [grandpa](https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5)
