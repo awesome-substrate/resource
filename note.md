@@ -12,7 +12,9 @@
   * [Dotcon-0: Substrate workshop with Gavin Wood and Sergei Shulepov](https://www.youtube.com/watch?time_continue=64&v=26ucTSSaqog)
   * [chainx 视频分享](http://www.mimajike.com/video_category/technology)
 
-
+  * [great demo from Gavin for substrate government module started at 07:09)(https://www.youtube.com/watch?v=VsZuDJMmVPY&feature=youtu.be&t=25413)
+  
+  
 ## repository
 
   * [serge pepyakin demo wasm smartcontract](https://github.com/pepyakin/substrate-contracts-adder)
