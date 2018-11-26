@@ -5,6 +5,7 @@
 
 ## wiki
   * [substrate official wiki](https://wiki.parity.io/decl_storage)
+  * [keyword concept explanation](https://hackmd.io/s/SJFWnfgR7)
 
 ## videos
 
