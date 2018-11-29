@@ -22,3 +22,6 @@
 ## consensus
 
  * [grandpa](https://medium.com/polkadot-network/grandpa-block-finality-in-polkadot-an-introduction-part-1-d08a24a021b5)
+
+## wasm
+  *[rust to wasm](https://kripken.github.io/blog/binaryen/2018/04/18/rust-emscripten.html)
